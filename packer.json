@@ -12,7 +12,7 @@
     "img_name": "raspberry-pi4-aarch64.img",
     "qemu_binary": "/usr/bin/qemu-aarch64-static",
     "pi4_alt_fstab": "true",
-    "lockdown_root": "true",
+    "lockdown_root": "false",
     "pi4_bootloader": "false",
     "cm4_usb": "false"
   },
