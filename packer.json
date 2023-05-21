@@ -1,7 +1,7 @@
 {
   "variables": {
-    "hostname": "alarm-rpi-aarch64",
-    "username": "BobbyX-Pi",
+    "hostname": "BobbyX-Pi",
+    "username": "bobby",
     "github_keys": "https://github.com/bcomnes.keys",
     "git_user_email": "frmb.02@gmail.com",
     "git_user_name": "Sharukki",
